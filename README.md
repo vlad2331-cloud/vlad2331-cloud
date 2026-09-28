@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! Я [Vladislav] 👋
 
-<!--
-**vlad2331-cloud/vlad2331-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Фронтенд-разработчик (Frontend Developer) из [Астрахани]. Я создаю адаптивные, красивые и современные сайты. Сейчас я активно изучаю веб-разработку и создаю свои первые проекты!
 
-Here are some ideas to get you started:
+## 🚀 Мой стек технологий
+* **HTML5** & **CSS3** (семантическая верстка, флексы, гриды, анимации)
+* **JavaScript** (работа с DOM, базовые скрипты и логика)
+* **Инструменты:** VS Code, Git, GitHub Desktop, GitHub Pages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Мои проекты
+* 🍰 [Мой первый сайт с тортами](https://vlad2331-cloud.github.io/cake-site-main-try-store/)]) — проект для нашего семейного бизнеса, адаптивная верстка сайта-кондитерской).
+
+## 📫 Как со мной связаться
+* 💬 Telegram: [@VladislavSharky]
+* 📧 Email: [vlad2331@mail.ru]
