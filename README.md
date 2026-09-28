@@ -16,6 +16,10 @@
 * 🍰 [Сайт-кондитерская для нашего семейного бизнеса (Фронтенд)](https://vlad2331-cloud.github.io/cake-site-main-try-store/) — *адаптивная верстка и интерфейс.*
 * ⚙️ *Скоро здесь появятся мои DevOps-проекты и конфигурации Docker.*
 
+## 📊 Моя статистика GitHub
+
+[![Top Langs](https://vercel.app)](https://github.com)
+
 ## 📫 Как со мной связаться
 * 💬 Telegram: [@VladislavSharky]
 * 📧 Email: [vlad2331@mail.ru]
