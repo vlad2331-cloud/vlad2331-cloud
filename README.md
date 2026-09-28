@@ -18,12 +18,15 @@
 
 ## 🛠️ Технологии и инструменты
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Linux](https://shields.io)
-![Docker](https://shields.io)
-![Git](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
 
 
 ## 📫 Как со мной связаться
