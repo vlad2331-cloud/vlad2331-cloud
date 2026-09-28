@@ -8,7 +8,7 @@
 * **Инструменты:** VS Code, Git, GitHub Desktop, GitHub Pages
 
 ## 📁 Мои проекты
-* 🍰 [Мой первый сайт с тортами](https://vlad2331-cloud.github.io/cake-site-main-try-store/)]) — проект для нашего семейного бизнеса, адаптивная верстка сайта-кондитерской).
+* 🍰 [Мой первый сайт с тортами](https://vlad2331-cloud.github.io/cake-site-main-try-store/) — проект для нашего семейного бизнеса, адаптивная верстка сайта-кондитерской
 
 ## 📫 Как со мной связаться
 * 💬 Telegram: [@VladislavSharky]
